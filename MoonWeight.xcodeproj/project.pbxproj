@@ -282,7 +282,7 @@
 				DEVELOPMENT_TEAM = 4686R98APV;
 				INFOPLIST_FILE = MoonWeight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tr.com.ussal.MoonWeight;
+				PRODUCT_BUNDLE_IDENTIFIER = tr.com.ussal.MoonWeight2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,7 +297,7 @@
 				DEVELOPMENT_TEAM = 4686R98APV;
 				INFOPLIST_FILE = MoonWeight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tr.com.ussal.MoonWeight;
+				PRODUCT_BUNDLE_IDENTIFIER = tr.com.ussal.MoonWeight2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
